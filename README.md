@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/training/modules/develop-azure-functions/5-create-function-visual-studio-code
